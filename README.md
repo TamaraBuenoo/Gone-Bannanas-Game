@@ -12,7 +12,7 @@ A star invaders game but monkey edition. Created for Introduction to Computer Sc
 
 
 <h2 align="center">Hi 👋, I'm Tamara Bueno</h2>
-<h3 align="center">A passionate UX/UI from Queens, New York.</h3>
+<h3 align="center">A passionate UX/UI, technology and design student from Queens, New York.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
