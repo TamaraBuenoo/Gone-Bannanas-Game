@@ -4,14 +4,20 @@ A star invaders game but monkey edition. Created for Introduction to Computer Sc
 ## Title Screen
 ![title screen](https://user-images.githubusercontent.com/109610434/221946359-00e49c97-4660-4871-8098-4179814203ea.png)
 
-##Game in Action
+In this tittle screen you can choose EASY, MEDIUM OR HARD by clicking the buttons!
+## Game in Action
 <img width="797" alt="Screen Shot 2023-02-28 at 2 00 13 PM" src="https://user-images.githubusercontent.com/109610434/221952968-73fd4c09-0ec3-4393-8c0b-42049a8ba2e4.png">
 
+The game will change according to the level picked! The harder the faster the monkey's come down!
 ## Game Over
 ![you lose](https://user-images.githubusercontent.com/109610434/221946360-8cc5e51e-8201-4aea-ad71-d45589324841.png) 
 
+This is the GAME OVER screen. Aww man, but we have a Try again button!
 ## You Win!
 ![you win](https://user-images.githubusercontent.com/109610434/221946362-bc85b830-919f-4629-bf71-834caa3b524e.png) 
+
+This is the YOU WIN screen. And the try again button!
+
 
 
 <h2 align="center">Hi 👋, I'm Tamara Bueno</h2>
